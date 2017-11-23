@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BaiduMapLoadPicture</string>
+    <string name="net_broken">当前网络不可用</string>
+    <string name="net_work_mobile">当前正在使用移动网络</string>
+    <string name="net_work_wifi">当前正在使用WIFI</string>
+    <string name="global_package">全球基础包</string>
+</resources>
